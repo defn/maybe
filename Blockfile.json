@@ -1,0 +1,15 @@
+{
+  "require": [
+    "linkerd",
+    "rust",
+    "rethinkdb",
+    "rundeck",
+    "fluentd",
+    "openresty",
+    "webterm",
+    "dd-agent",
+    "nexus",
+    "aptyly",
+    "teamcity",
+    "phoenix"
+}
